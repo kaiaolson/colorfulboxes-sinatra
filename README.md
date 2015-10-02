@@ -8,7 +8,7 @@ First, make sure you have Sinatra installed:
 
 Then run with: 
 
-<pre>ruby coffee_cake_app.rb</pre>
+<pre>ruby colorful_boxes_app.rb</pre>
 
 View at: http://localhost:4567
 
